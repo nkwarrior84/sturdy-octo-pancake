@@ -8,3 +8,4 @@ Minimal and clean example implementations of data structures and algorithms in P
 5. arraystack.py
 6. adjacencymatrix.py
 7. adjacencylists.py
+8. controllist.py
